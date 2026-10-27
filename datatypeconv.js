@@ -13,3 +13,6 @@ console.log(typeof isLoggedIn);
 let changebool=Boolean(isLoggedIn);
 console.log(typeof changebool);
 console.log(changebool);
+
+// "alisha"=>true
+//""=>false
